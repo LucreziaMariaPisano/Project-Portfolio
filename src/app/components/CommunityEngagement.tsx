@@ -1,7 +1,7 @@
 import { Users, Network, Scale, Globe, BookOpen, Heart } from "lucide-react";
 import imgCCIFLyon from "/src/assets/3657fd2670e76392d38e4fed09ff54aaacb035d4.png";
 import imgParoleGiuste from "/src/assets/dee4a8564d8e0277b0a433b39f24df9d4c68e8c6.png";
-import imgCCIFConference from "/src/assets/90a019def1087a604e433d1dcac5b47ab0dd9c02.png";s
+import imgCCIFConference from "/src/assets/90a019def1087a604e433d1dcac5b47ab0dd9c02.png";
 import imgAuditWorkshop from "/src/assets/bb23bb3a35f535a82f4b6481c30e85d48ff3a500.png";
 import imgAuditTeam from "/src/assets/383451f2ca8275990a193c5be56b836dbebab4e1.png";
 import imgSplashCollective from "/src/assets/9efad6b23987c79c3ff92df49c89c6b015ccd910.png";
