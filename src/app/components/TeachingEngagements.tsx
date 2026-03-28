@@ -1,10 +1,10 @@
 import { BookOpen, Presentation, Users, Landmark, FileText, ChevronRight, Globe } from "lucide-react";
-import imgClass1 from "/assets/fc9fbfb52b3f7f2f328f0e9985efb4abdf2c8e28.png";
-import imgClass2 from "/assets/e72494b705c7348104d50c6cfe6a3f2279d2d785.png";
-import imgEvent from "/assets/8e6fae65e9caceeada8254bbb7f4ec9c3b7be4ed.png";
-import imgSyllabus from "/assets/0c8731ae4c47b19a957421a7434bd875df63435f.png";
-import imgEuropa1 from "/assets/3291ebae1ba9775555a52c39c07b4d9cd2dfdd86.png";
-import imgEuropa2 from "/assets/482784ba86971f72ee85597bb45d24d372079a3e.png";
+import imgClass1 from "/src/assets/fc9fbfb52b3f7f2f328f0e9985efb4abdf2c8e28.png";
+import imgClass2 from "/src/assets/e72494b705c7348104d50c6cfe6a3f2279d2d785.png";
+import imgEvent from "/src/assets/8e6fae65e9caceeada8254bbb7f4ec9c3b7be4ed.png";
+import imgSyllabus from "/src/assets/0c8731ae4c47b19a957421a7434bd875df63435f.png";
+import imgEuropa1 from "/src/assets/3291ebae1ba9775555a52c39c07b4d9cd2dfdd86.png";
+import imgEuropa2 from "/src/assets/482784ba86971f72ee85597bb45d24d372079a3e.png";
 
 export function TeachingEngagements() {
   return (
