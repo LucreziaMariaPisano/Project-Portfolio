@@ -1,5 +1,5 @@
 import { GraduationCap, Award, FileText, Users } from "lucide-react";
-import imgValgaudemar from "figma:asset/9ad059619c5f26265eeffcffb5dc91686a2f5dcb.png";
+import imgValgaudemar from "/assets/9ad059619c5f26265eeffcffb5dc91686a2f5dcb.png";
 
 export function Education() {
   return (

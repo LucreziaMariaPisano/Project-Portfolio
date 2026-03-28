@@ -1,30 +1,30 @@
 import { Calendar, User, CheckCircle2, Building, Globe, ExternalLink } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import imgWorkshop from "figma:asset/72ff4277c668fce2b6d5b3f7d30ac17178f811be.png";
-import imgIndoorCerts from "figma:asset/203f364dd9898b8b9562387f7c9a3939fde315fe.png";
-import imgOutdoorCerts from "figma:asset/d6a0cc79de2bea2730b5d6b9369407f2f0131f21.png";
+import imgWorkshop from "/assets/72ff4277c668fce2b6d5b3f7d30ac17178f811be.png";
+import imgIndoorCerts from "/assets/203f364dd9898b8b9562387f7c9a3939fde315fe.png";
+import imgOutdoorCerts from "/assets/d6a0cc79de2bea2730b5d6b9369407f2f0131f21.png";
 
-import imgGenAiGroup from "figma:asset/aa3830d20152c78023105b54d7afef6facc7295e.png";
-import imgGenAiIndoor from "figma:asset/8234d58c621901e90d108591c9518e472d854dfc.png";
-import imgGenAiPoster from "figma:asset/cda765527c2327e7f6dde409a72c8d73f755a54c.png";
-import imgGenAiPresentation from "figma:asset/7137d748d76aed7cf314800e1c1e1efe9b4da363.png";
+import imgGenAiGroup from "/assets/aa3830d20152c78023105b54d7afef6facc7295e.png";
+import imgGenAiIndoor from "/assets/8234d58c621901e90d108591c9518e472d854dfc.png";
+import imgGenAiPoster from "/assets/cda765527c2327e7f6dde409a72c8d73f755a54c.png";
+import imgGenAiPresentation from "/assets/7137d748d76aed7cf314800e1c1e1efe9b4da363.png";
 
-import imgFiercePoster from "figma:asset/1aafd8356d0dad3459f2476506a9e04121baf0c1.png";
-import imgFierceCircle from "figma:asset/a659e4045e5dbe55510a1af24f15658aa88dde0c.png";
-import imgFiercePasta from "figma:asset/654ea1658a185b9848463d38b46215369c477a42.png";
-import imgFierceTable from "figma:asset/9727eefcc831ae801a5f1f0c31bfcf5267fa5650.png";
-import imgFierceLibrary from "figma:asset/578101e8abd56b5825880a4edb63482dc15a5da2.png";
+import imgFiercePoster from "/assets/1aafd8356d0dad3459f2476506a9e04121baf0c1.png";
+import imgFierceCircle from "/assets/a659e4045e5dbe55510a1af24f15658aa88dde0c.png";
+import imgFiercePasta from "/assets/654ea1658a185b9848463d38b46215369c477a42.png";
+import imgFierceTable from "/assets/9727eefcc831ae801a5f1f0c31bfcf5267fa5650.png";
+import imgFierceLibrary from "/assets/578101e8abd56b5825880a4edb63482dc15a5da2.png";
 
-import imgEmigrartePool from "figma:asset/a5bdb9227fe08135423df7b7e3d1b67498927478.png";
-import imgEmigrarteGroup from "figma:asset/c256bc991ed6a5be04f826913f1ef41f48601a97.png";
-import imgEmigrarteIndoor from "figma:asset/05fbbda071a357b78e595811b044e83b0b08d445.png";
+import imgEmigrartePool from "/assets/a5bdb9227fe08135423df7b7e3d1b67498927478.png";
+import imgEmigrarteGroup from "/assets/c256bc991ed6a5be04f826913f1ef41f48601a97.png";
+import imgEmigrarteIndoor from "/assets/05fbbda071a357b78e595811b044e83b0b08d445.png";
 
-import imgBasiccGroup from "figma:asset/a2e1f5803b4dd7925f2ff446fbaa0095af57ab62.png";
-import imgBasiccCircle from "figma:asset/a41359b6d352cc4dd76cdb5c734959c98419d8a9.png";
-import imgBasiccView from "figma:asset/c470c19309afc887592be8cf6942a357a8e273ee.png";
+import imgBasiccGroup from "/assets/a2e1f5803b4dd7925f2ff446fbaa0095af57ab62.png";
+import imgBasiccCircle from "/assets/a41359b6d352cc4dd76cdb5c734959c98419d8a9.png";
+import imgBasiccView from "/assets/c470c19309afc887592be8cf6942a357a8e273ee.png";
 
-import imgEduActionPoster from "figma:asset/d443fb8d88548bb03499871d534af9b73f6a091a.png";
-import imgEduActionFacilitation from "figma:asset/13b647db4e9ae9248a725cf25a01198249d223ba.png";
+import imgEduActionPoster from "/assets/d443fb8d88548bb03499871d534af9b73f6a091a.png";
+import imgEduActionFacilitation from "/assets/13b647db4e9ae9248a725cf25a01198249d223ba.png";
 
 export function Projects() {
   return (

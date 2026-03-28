@@ -1,14 +1,14 @@
 import { Users, Network, Scale, Globe, BookOpen, Heart } from "lucide-react";
-import imgCCIFLyon from "figma:asset/3657fd2670e76392d38e4fed09ff54aaacb035d4.png";
-import imgParoleGiuste from "figma:asset/dee4a8564d8e0277b0a433b39f24df9d4c68e8c6.png";
-import imgCCIFConference from "figma:asset/90a019def1087a604e433d1dcac5b47ab0dd9c02.png";
-import imgAuditWorkshop from "figma:asset/bb23bb3a35f535a82f4b6481c30e85d48ff3a500.png";
-import imgAuditTeam from "figma:asset/383451f2ca8275990a193c5be56b836dbebab4e1.png";
-import imgSplashCollective from "figma:asset/9efad6b23987c79c3ff92df49c89c6b015ccd910.png";
-import imgUrbactTeam1 from "figma:asset/cf35ef2d019ea767d9e6df3a071c531a532c8c52.png";
-import imgUrbactTeam2 from "figma:asset/d73c0bc3fb8b932f29f6c010d7c229e9b8ea2f02.png";
-import imgUrbactAgenda from "figma:asset/572255887f3c2d0a6613473231dfaf31e48ecd3f.png";
-import imgUrbactPresentation from "figma:asset/f62566f4a78f3d0d1cf1ff2948aa880281a26ab1.png";
+import imgCCIFLyon from "/assets/3657fd2670e76392d38e4fed09ff54aaacb035d4.png";
+import imgParoleGiuste from "/assets/dee4a8564d8e0277b0a433b39f24df9d4c68e8c6.png";
+import imgCCIFConference from "/assets/90a019def1087a604e433d1dcac5b47ab0dd9c02.png";s
+import imgAuditWorkshop from "/assets/bb23bb3a35f535a82f4b6481c30e85d48ff3a500.png";
+import imgAuditTeam from "/assets/383451f2ca8275990a193c5be56b836dbebab4e1.png";
+import imgSplashCollective from "/assets/9efad6b23987c79c3ff92df49c89c6b015ccd910.png";
+import imgUrbactTeam1 from "/assets/cf35ef2d019ea767d9e6df3a071c531a532c8c52.png";
+import imgUrbactTeam2 from "/assets/d73c0bc3fb8b932f29f6c010d7c229e9b8ea2f02.png";
+import imgUrbactAgenda from "/assets/572255887f3c2d0a6613473231dfaf31e48ecd3f.png";
+import imgUrbactPresentation from "/assets/f62566f4a78f3d0d1cf1ff2948aa880281a26ab1.png";
 
 export function CommunityEngagement() {
   const activities = [

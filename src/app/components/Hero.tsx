@@ -1,5 +1,5 @@
 import { ArrowRight, BookOpen, Briefcase, GraduationCap } from "lucide-react";
-import profileImage from "figma:asset/4605c3a61b49f1dde16429aabead913de23c0870.png";
+import profileImage from "/assets/4605c3a61b49f1dde16429aabead913de23c0870.png";
 
 export function Hero() {
   return (
